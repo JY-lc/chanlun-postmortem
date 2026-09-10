@@ -1,0 +1,19 @@
+# 数据与缓存（行情数据有版权约束，禁止分发）
+data_cache/
+data_collect/
+*.pkl
+
+# 凭据（切勿提交）
+credentials.env
+.env
+.cred_tmp
+
+# 运行产物
+__pycache__/
+*.py[cod]
+experiments_log.jsonl
+*.log
+
+# 打包/临时
+*.zip
+.venv/
