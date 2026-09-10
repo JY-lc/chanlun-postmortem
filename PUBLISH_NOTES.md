@@ -88,7 +88,7 @@ quantitative-finance  backtesting  look-ahead-bias  methodology  negative-result
 
 ## 五、发布前最后检查
 
-- [ ] LICENSE 中 `<YOUR NAME HERE>` 已替换（或保持匿名）
+- [x] LICENSE 已署名 **JY**（如需匿名可改回占位符）
 - [ ] 全文无真实 Key / 个人路径（已通过终检，可直接推）
 - [ ] 确认不含行情数据与第三方源码
 - [ ] 仓库名与 About 采用上面文案
